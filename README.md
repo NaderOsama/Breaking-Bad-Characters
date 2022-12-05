@@ -1,16 +1,8 @@
-# flutter_breaking
+# Breaking Bad Characters
 
-A new Flutter project.
+I created an application to display the characters of the famous and international series "Breaking Bad" and display some details of each character that was present in the series. I used the API and the Bloc to create this application.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Breaking Bad Flutter Mobile ApplicationUsing API and Bloc.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![e7821e64c5daa43c-1200x675](https://user-images.githubusercontent.com/73281671/205626669-cc8e507a-8579-4890-b4f1-70049cad15f6.jpg)
